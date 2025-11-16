@@ -16,18 +16,17 @@ WARNING:
 
 
 
-
 -- In MySql we dont have a schema, schema aka database --
 
 -- >> creating databases << --
-DROP DATABASE if exists bronze;
-CREATE SCHEMA  bronze ;
+DROP DATABASE if exists BRONZE;
+CREATE DATABASE  BRONZE ;
 
-DROP DATABASE if exists silver;
-CREATE DATABASE silver;
+DROP DATABASE if exists SILVER;
+CREATE DATABASE SILVER;
 
-DROP DATABASE if exists gold;
-CREATE SCHEMA gold;
+DROP DATABASE if exists GOLD ;
+CREATE SCHEMA GOLD;
 
 
 
