@@ -99,38 +99,37 @@ data-warehouse-project/
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 ###
-<div align="center">
+<div align="left">
 
 [![LinkedIn (Bold)](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-khajuria)
 [![Portfolio (Bold)](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://sachinkhajuria.super.site/)
 </div>
 
-<div align="center">
+---
 
 
-
-
-
-
-#
-#
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## ✨ Credits & Acknowledgments
-<div align="center">
+<div align="left">
+
 
 ### Special Thanks
 
-This project was built following an excellent tutorial by **[DataWithBaraa](https://github.com/DataWithBaraa)**
+- This project was built following an excellent tutorial by **[DataWithBaraa](https://github.com/DataWithBaraa)**
 
-A huge thank you for creating such comprehensive and well-structured learning content!
+- A huge thank you for creating such comprehensive and well-structured learning content!
 
 #### 📺 Tutorial Resources
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8&t=14701s)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Original%20Repo-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main)
 
 </div>
+
+
+
+---
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ---
